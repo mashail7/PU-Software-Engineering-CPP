@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="03. Loops and functions in C++/03. Loops and functions in C++.vcxproj" />
+</Solution>
